@@ -1,0 +1,24 @@
+.address-card{
+    border: 5px gray solid;
+    padding: 15px;
+}
+
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+
+.designation{
+    font-style: italic;
+    color:maroon;
+}
+
+.address {
+    font-size: 12px;
+    color: indigo;
+}
+
+.phone {
+    font-size: 12px;
+    color: mediumvioletred;
+}
